@@ -1,4 +1,4 @@
-# Input Leap
+# Input Leap Wiki
 
 <!-- add badges: flatpak, snap, GitHub Actions -->
 
